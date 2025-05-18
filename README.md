@@ -1,20 +1,27 @@
-# flight_booking_system
-<<<<<<< HEAD
+# Flight Booking System - Flutter + Back4App
 
-A new Flutter project.
+## Project Description
 
-## Getting Started
+This project is a **Cross-Platform Flight Booking System** developed using **Flutter** for the frontend and **Back4App** (Parse Server) as the backend.  
+It allows users to **register, log in**, and perform **CRUD operations** (Create, Read, Update, Delete) on flight records stored in the Back4App database.  
 
-This project is a starting point for a Flutter application.
+Key features include:  
+- User authentication and session management using Back4App’s Parse SDK  
+- Viewing a list of flights  
+- Adding new flights with form validation  
+- Updating existing flight details  
+- Deleting flights with confirmation prompts  
 
-A few resources to get you started if this is your first Flutter project:
+The app is tested on an Android Emulator (Pixel 9, Android 15, API 35) and demonstrates smooth integration between Flutter frontend and Back4App backend services.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-Flutter app for flight booking with user authentication and CRUD operations using Back4App (Parse Server), developed for Cross Platform Application Development assignment.
->>>>>>> c13d3c78f06f88133712183d8e636c232f7eadf7
+## Presentation
+
+The PowerPoint presentation for the assignment can be found here:  
+[Download Presentation](https://gitlab.com/srvignesh5/flight_booking_system/-/raw/main/presentation.pptx)
+
+## Demo Video
+
+Watch the demo video on YouTube here:  
+[Demo Video Link](https://youtu.be/iCk5hZ3Pr5w)

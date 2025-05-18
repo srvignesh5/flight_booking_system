@@ -18,8 +18,8 @@ The app is tested on an Android Emulator (Pixel 9, Android 15, API 35) and demon
 
 ## Presentation
 
-The PowerPoint presentation for the assignment can be found here:  
-[Download Presentation]([Download Presentation](https://github.com/srvignesh5/flight_booking_system/raw/main/presentation.pptx))
+You can view or download the presentation here:  
+[Download Presentation](https://github.com/srvignesh5/flight_booking_system/raw/main/Presentation.pptx)
 
 ## Demo Video
 
